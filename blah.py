@@ -10,3 +10,5 @@ newVarDict = {}
 newVarList []
 
 newVarArray = np.array(newVarList)
+
+secondNewVar = np.array([1,2,3,4])
